@@ -232,3 +232,10 @@ color: #FFFFFF;
     line-height: 30px;
     color: #CDCDCD;
  }
+
+ @media (max-width: 760px) {
+
+    .test-man{
+        flex-direction: column;
+    }
+}
